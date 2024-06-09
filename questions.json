@@ -1,0 +1,171 @@
+[
+    {
+        "question": "What is the capital of Italy?",
+        "option1": "Berlin",
+        "option2": "Madrid",
+        "option3": "Paris",
+        "option4": "Rome",
+        "correct_option": 4
+    },
+    {
+        "question": "Which planet is known as the Morning Star?",
+        "option1": "Earth",
+        "option2": "Mars",
+        "option3": "Jupiter",
+        "option4": "Venus",
+        "correct_option": 4
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "option1": "Toronto",
+        "option2": "Ottawa",
+        "option3": "Vancouver",
+        "option4": "Montreal",
+        "correct_option": 2
+    },
+    {
+        "question": "Who is the author of '1984'?",
+        "option1": "George Orwell",
+        "option2": "Aldous Huxley",
+        "option3": "Ray Bradbury",
+        "option4": "Philip K. Dick",
+        "correct_option": 1
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "option1": "Earth",
+        "option2": "Mars",
+        "option3": "Jupiter",
+        "option4": "Saturn",
+        "correct_option": 2
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "option1": "Atlantic Ocean",
+        "option2": "Indian Ocean",
+        "option3": "Arctic Ocean",
+        "option4": "Pacific Ocean",
+        "correct_option": 4
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "option1": "Vincent van Gogh",
+        "option2": "Pablo Picasso",
+        "option3": "Leonardo da Vinci",
+        "option4": "Claude Monet",
+        "correct_option": 3
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "5",
+        "correct_option": 2
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "option1": "Oxygen",
+        "option2": "Gold",
+        "option3": "Silver",
+        "option4": "Osmium",
+        "correct_option": 1
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "option1": "K2",
+        "option2": "Mount Everest",
+        "option3": "Kangchenjunga",
+        "option4": "Lhotse",
+        "correct_option": 2
+    },
+    {
+        "question": "In which year did the Titanic sink?",
+        "option1": "1905",
+        "option2": "1912",
+        "option3": "1918",
+        "option4": "1923",
+        "correct_option": 2
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "option1": "Amazon River",
+        "option2": "Nile River",
+        "option3": "Yangtze River",
+        "option4": "Mississippi River",
+        "correct_option": 2
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "option1": "Alexander Fleming",
+        "option2": "Marie Curie",
+        "option3": "Louis Pasteur",
+        "option4": "Isaac Newton",
+        "correct_option": 1
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "option1": "Earth",
+        "option2": "Mars",
+        "option3": "Jupiter",
+        "option4": "Saturn",
+        "correct_option": 3
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "option1": "China",
+        "option2": "Japan",
+        "option3": "Thailand",
+        "option4": "India",
+        "correct_option": 2
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "option1": "Au",
+        "option2": "Ag",
+        "option3": "Pt",
+        "option4": "Pb",
+        "correct_option": 1
+    },
+    {
+        "question": "How many continents are there on Earth?",
+        "option1": "5",
+        "option2": "6",
+        "option3": "7",
+        "option4": "8",
+        "correct_option": 3
+    },
+    {
+        "question": "Which country won the FIFA World Cup in 2018?",
+        "option1": "Brazil",
+        "option2": "Germany",
+        "option3": "France",
+        "option4": "Argentina",
+        "correct_option": 3
+    },
+    {
+        "question": "What is the capital city of Australia?",
+        "option1": "Sydney",
+        "option2": "Melbourne",
+        "option3": "Brisbane",
+        "option4": "Canberra",
+        "correct_option": 4
+    },
+    {
+        "question": "Which element is represented by the symbol 'Na'?",
+        "option1": "Nitrogen",
+        "option2": "Nickel",
+        "option3": "Sodium",
+        "option4": "Neon",
+        "correct_option": 3
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "option1": "Isaac Newton",
+        "option2": "Albert Einstein",
+        "option3": "Galileo Galilei",
+        "option4": "Niels Bohr",
+        "correct_option": 2
+    }
+]
+
